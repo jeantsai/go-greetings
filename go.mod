@@ -1,3 +1,3 @@
-module github.com/jeantsai/greetings
+module github.com/jeantsai/go-greetings
 
 go 1.18
